@@ -1,4 +1,5 @@
 TECHSTUDIO TASKS REPOSITORY
+
 This repository contains the tasks I have undertaken in the course of my internship at TechStudio so far. Excel for two (2) projects can be found here.
 
 EXPLORATORY ANALYSIS OF THE BIKE PURCHSE DATASET
