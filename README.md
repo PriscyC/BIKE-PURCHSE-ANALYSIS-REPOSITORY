@@ -16,10 +16,6 @@ Airline A and C lead in revenue, and the ticket prices show significant variatio
 The analysis of average flight durations provides insights into the operational efficiency of different routes. 
 Peak passenger months, ticket prices, and flight counts indicate important trends in airline performance.
 
-# EXPLORATORY ANALYSIS OF THE MOVIE DATASET
-The third project in this repository presents an analysis of the movie industry, focusing on budget, revenue, genre performance, and top
-grossing movies. The data was preprocessed using Python, analyzed in Excel, and visualized using Power BI to 
-create an insightful dashboard. 
 
 
 
